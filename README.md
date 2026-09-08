@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-B.Tech undergraduate with a strong interest in **Cybersecurity, IoT, and Embedded Systems**. Hands-on knowledge of **Python, Linux, SQL, SIEM, IDS, network security, incident response, phishing analysis, and penetration testing fundamentals**, complemented by practical experience across **sensors, actuators, and hardware-software integration**.
+B.Tech undergraduate with a strong interest in **Cybersecurity, IoT, and Embedded Systems**. Hands-on knowledge of **Python, Linux, SQL, SIEM, IDS, network security, incident response, phishing analysis, and penetration testing fundamentals**, complemented by practical experience across **Sensors, Actuators, and hardware-software integration**.
 
 🎯 Seeking entry-level opportunities in **Cybersecurity, SOC, IoT Security, Network Security, or Embedded Security**.
 
